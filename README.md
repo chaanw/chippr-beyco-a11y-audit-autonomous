@@ -95,7 +95,7 @@ De tools die zijn gebruikt voor deze beoordeling zijn de volgende:
 
 #### Headings
 
-* Headings worden goed gebruikt om content de introduceren. Er is maar 1 <h1> element gebruikt, de headings staan in een logische volgorde en er worden geen heading niveaus overgeslagen
+* Headings worden goed gebruikt om content de introduceren. Er is maar 1 <code>h1</code> element gebruikt, de headings staan in een logische volgorde en er worden geen heading niveaus overgeslagen
 
 #### Lists
 
@@ -103,7 +103,7 @@ De tools die zijn gebruikt voor deze beoordeling zijn de volgende:
 
 #### Controls
 
-* Social media links in de footer en de link naar de homepage (logo) worden niet beschreven waardoor het niet accessible is voor screenreaders. Buttons gebruiken een <button> element maar hebben geen toegankelijke beschrijving voor screenreaders en er is geen skip link aanwezig. Daarentegen zijn focus states wel duidelijk zichtbaar en worden er geen links in een ander tabblad geopend
+* Social media links in de footer en de link naar de homepage (logo) worden niet beschreven waardoor het niet accessible is voor screenreaders. Buttons gebruiken een <code>button</code> element maar hebben geen toegankelijke beschrijving voor screenreaders en er is geen skip link aanwezig. Daarentegen zijn focus states wel duidelijk zichtbaar en worden er geen links in een ander tabblad geopend
 
 #### Tables
 
