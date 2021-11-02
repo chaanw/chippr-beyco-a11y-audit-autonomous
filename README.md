@@ -87,7 +87,7 @@ De tools die zijn gebruikt voor deze beoordeling zijn de volgende:
 
 #### Keyboard
 
-* Bij de interactieve elementen is de focus state duidelijk zichtbaar en past binnen de huisstijl. Helaas zijn niet alle dropdown menu’s zijn navigeerbaar met toetsenbord.
+* Bij de interactieve elementen is de focus state duidelijk zichtbaar en past binnen de huisstijl. Helaas zijn niet alle dropdown menu’s navigeerbaar met toetsenbord.
 
 #### Images
 
