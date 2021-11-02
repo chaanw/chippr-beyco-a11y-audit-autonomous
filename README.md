@@ -87,7 +87,7 @@ De tools die zijn gebruikt voor deze beoordeling zijn de volgende:
 
 #### Keyboard
 
-* Bij de interactieve elementen is de focus state duidelijk zichtbaar en past binnen de huisstijl. Helaas zijn niet alle dropdown menu’s navigeerbaar met toetsenbord.
+* Bij de interactieve elementen is er een focus state die past binnen de huisstijl. Helaas zijn niet alle dropdown menu’s navigeerbaar met toetsenbord en zijn er onzichtbare focusbare knoppen aanwezig. 
 
 #### Images
 
@@ -103,7 +103,7 @@ De tools die zijn gebruikt voor deze beoordeling zijn de volgende:
 
 #### Controls
 
-* Social media links in de footer en de link naar de homepage (logo) worden niet beschreven waardoor het niet accessible is voor screenreaders. Buttons gebruiken een <code>button</code> element maar hebben geen toegankelijke beschrijving voor screenreaders en er is geen skip link aanwezig. Daarentegen zijn focus states wel duidelijk zichtbaar en worden er geen links in een ander tabblad geopend
+* Social media links in de footer hebben geen focus state en geen alt waardoor het niet accessible is voor screenreaders. Buttons gebruiken wel een <code>button</code> element maar hebben geen toegankelijke beschrijving voor screenreaders en er is geen skip link aanwezig. 
 
 #### Tables
 
