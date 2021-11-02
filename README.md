@@ -3,11 +3,11 @@
 
 Dit document is een template voor een webtoegankelijkheid-test volgens de Web Content Accessibility Guidelines (WCAG). Een consistente rapportage helpt bij het uitvoeren van een evaluatie en zorgt er voor dat verschillende tests kunnen worden vergeleken.
 
-In deze rapportage wordt het **detail pagina** getest aan de hand van de checklist van het a11y project.  
+In deze rapportage wordt de **Coffees** getest aan de hand van de checklist van het a11y project.  
 
 Datum webtoegankelijkheid-test: 28-10-2021
 
-Webtoegankelijkheid-test uitgevoerd door: Finn van Bekkum
+Webtoegankelijkheid-test uitgevoerd door: Chaan Soekana
 
 ## Inhoudsopgave
 
@@ -38,10 +38,10 @@ Beyco zorgt voor een platform waar verkopers en inkopers met elkaar in contact k
 
 https://test.beyco.chippr.dev/
 
-https://test.beyco.chippr.dev/trade/offers/8f3622d6-75a1-43b8-a960-3daecc5c880a
+https://test.beyco.chippr.dev/trade/offers/public
 
 
-![afbeelding](https://user-images.githubusercontent.com/26089533/139428771-4d6678e4-d6ab-48e7-b6fc-06e987d8828f.png)
+<!-- ![afbeelding](hier komt een link) -->
 
 Test data:
 
