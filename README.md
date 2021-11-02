@@ -24,7 +24,9 @@ Webtoegankelijkheid-test uitgevoerd door: Chaan Soekana
 
 ## Samenvatting
 
+Dit rapport beschrijft in hoeverre de website Beyco (Coffee pagina)overeenstemt met de Web Content Accessibility Guidelines (WCAG) van het W3C. Na de achtergrondinformatie en afbakening van de test worden beoordelaars, beoordelingsproces en testresulltaten beschreven.
 
+Conslusie van deze test luidt dat de Beyco (Coffee pagina) website voldoet de WCAG 2.1, op niveau AA. Gedetailleerde resultaten en aanbevelingen zijn verderop in dit document beschikbaar en in de referenties vindt u bronnen voor eventuele vervolgstudie. Wij stellen feedback op deze evaluatie zeer op prijs.
 
 ## Achtergrond bij de evaluatie
 
@@ -32,16 +34,14 @@ De webtoegankelijkheid-test vereist een combinatie van semi-geautomatiseerde en 
 
 ##  Afbakening
 
-https://beyco.nl/
+Naam website: Beyco Doel website: Beyco “Beyond Coffee” is een wereldwijd koffie handelsplatform dat kopers en producenten met elkaar in contact brengt. Op dit online platform kunnen producenten hun koffie online verkopen en kunnen kopers koffie vinden die ze zoeken. Daarnaast kun je ook ‘trader’ zijn, iemand die zowel koopt als verkoopt.
 
-Beyco zorgt voor een platform waar verkopers en inkopers met elkaar in contact kunnen komen.
+De website wordt veel gebruikt in landen zoals Peru. Hier is vaak een slechte internetverbinding en ook heel erg veel zonlicht, daarom is het de bedoeling dat de website goed werkt voor deze gebruikers.
 
-https://test.beyco.chippr.dev/
-
-https://test.beyco.chippr.dev/trade/offers/public
+URL Website die wordt getest: https://beyco.nl/trade/offers/public
 
 
-<!-- ![afbeelding](hier komt een link) -->
+<!-- ![afbeelding](afbeeldinglink) -->
 
 Test data:
 
