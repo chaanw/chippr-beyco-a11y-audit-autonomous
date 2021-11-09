@@ -113,6 +113,10 @@ De tools die zijn gebruikt voor deze beoordeling zijn de volgende:
 
 ##  Bijlagen
 
+### Lighthouse Accessibility score
+
+<img width="485" alt="Schermafbeelding 2021-11-09 om 13 15 24" src="https://user-images.githubusercontent.com/90189679/140923053-881df50d-316e-49a0-b27d-207303a3fb4a.png">
+
 ## Licentie
 
 ![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
