@@ -1,6 +1,6 @@
 # Rapportage webtoegankelijkheid-test voor Chippr-Beyco
 
-![Uploading free-macbook-pro-on-table-mockup-a11y.jpg…]()
+![beycomockup](https://user-images.githubusercontent.com/90189679/140922167-6ab86176-7e4d-4692-9830-5e59010a4d15.png)
 
 Dit document is een template voor een webtoegankelijkheid-test volgens de Web Content Accessibility Guidelines (WCAG). Een consistente rapportage helpt bij het uitvoeren van een evaluatie en zorgt er voor dat verschillende tests kunnen worden vergeleken.
 
